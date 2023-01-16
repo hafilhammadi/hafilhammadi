@@ -1,2 +1,1 @@
-Hai, perkenalkan nama Hafil Hammadi. Ini project kedua saya yang sudah saya upload ke GitHub. Pada projek kedua ini saya membuat analisa kasus mengenai Boston In Crime
--->
+Hai, perkenalkan nama Hafil Hammadi. Ini project kedua saya yang sudah saya upload ke GitHub. Pada projek kedua ini saya membuat analisa kasus mengenai Boston In Crime. Garis besarnya adalah Mencari insight apa yang mempengaruhi besarnya kejahatan di Boston dan memberi rekomendasi agar dapat menurunkan angka kejahatan di Boston.
